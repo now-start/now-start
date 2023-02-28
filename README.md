@@ -19,7 +19,7 @@
 #### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/mariadb-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white)
-![PostreSQL](https://img.shields.io/badge/PostreSQL-4169E1.svg?&style=for-the-badge&logo=PostreSQL&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgresql-4169E1.svg?&style=for-the-badge&logo=Postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white)
 #### Tools
