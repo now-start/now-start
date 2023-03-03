@@ -1,12 +1,9 @@
-# Now-Start 😉
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=now-start&show_icons=true&theme=react)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=now-start&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=phantom2691)](https://solved.ac/phantom2691/)
-
+<h1 align="center">Hi 👋, I'm Now-Start 😉</h1>
+<h3 align="center">I'm a developer passionate about Web Development and recently interested also in the DevOps fields.</h3>
+  
 ---
 
-<details>
+<details open>
 <summary><h2>💻 My knowledges:</h2> </summary>
   
 ### Frontend
@@ -37,4 +34,15 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
     
+</details>
+
+---
+
+<details>
+<summary><h2>📊 GitHub stats:</h2></summary>
+  
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=phantom2691)](https://solved.ac/phantom2691/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=now-start&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=now-start&show_icons=true&theme=react)
 </details>
