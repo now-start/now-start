@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Now-Start 😉</h1>
-<h3 align="center">I'm a developer passionate about Web Development and recently interested also in the DevOps fields.</h3>
+<h3 align="center">I'm a developer passionate about Web Development. </br> recently interested also in the DevOps fields.</h3>
   
 ---
 
