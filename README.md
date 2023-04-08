@@ -55,7 +55,7 @@
 <details>
 <summary><h2>📊 GitHub stats:</h2></summary>
   
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=phantom2691)](https://solved.ac/phantom2691/)
+<!--[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=phantom2691)](https://solved.ac/phantom2691/)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=now-start&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=now-start&show_icons=true&theme=react)
