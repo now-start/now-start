@@ -8,11 +8,6 @@
 
 [<img src="https://img.shields.io/badge/LG-A50034.svg?&style=for-the-badge&logo=lg&logoColor=white&link=mailto:nowstart2691@lguplus.co.kr"/>](mailto:nowstart2691@lguplus.co.kr)
 [<img src="https://img.shields.io/badge/gmail-c14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:nowstart2691@gmail.com"/>](mailto:nowstart2691@gmail.com)
-<!-- [<img src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/TkdAxel)
-[<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://alessandromaggio.it/)
-[<img src ="https://img.shields.io/badge/Telegram-1ca0f1.svg?&style=for-the-badge&logo=Telegram&logoColor=white%22&link=https://t.me/TkdAlex">](https://t.me/TkdAlex/)
-[<img src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aalessandromaggio/)
-[<img src = "https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/tkd_alex/) -->
 </details>
   
 ---
@@ -55,8 +50,6 @@
 <details>
 <summary><h2>📊 GitHub stats:</h2></summary>
   
-<!--[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=phantom2691)](https://solved.ac/phantom2691/)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=now-start&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=now-start&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=now-start&show_icons=true&theme=react)
 </details>
