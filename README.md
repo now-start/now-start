@@ -50,6 +50,6 @@
 <details>
 <summary><h2>📊 GitHub stats:</h2></summary>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=now-start&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=now-start&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=now-start&layout=compact&theme=react)
 </details>
