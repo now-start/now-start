@@ -13,20 +13,12 @@
 ---
 
 <details>
-<summary><h2>💻 My knowledges:</h2> </summary>
-  
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+<summary><h2>💻 Tech Stack</h2> </summary>
   
 ### Backend
 ![Java](https://img.shields.io/badge/Java-344CB7.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Springboot-6DB33F.svg?&style=for-the-badge&logo=Springboot&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
   
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
@@ -48,7 +40,7 @@
 ---
 
 <details>
-<summary><h2>Connect with me</h2></summary>
+<summary><h2>📧 Connect with me</h2></summary>
 
 [<img src="https://img.shields.io/badge/LG-A50034.svg?&style=for-the-badge&logo=lg&logoColor=white&link=mailto:nowstart2691@lguplus.co.kr"/>](mailto:nowstart2691@lguplus.co.kr)
 [<img src="https://img.shields.io/badge/gmail-c14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:nowstart2691@gmail.com"/>](mailto:nowstart2691@gmail.com)
