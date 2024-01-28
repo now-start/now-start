@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Now-Start 😉</h1>
-<h3 align="center">I'm a developer passionate about Backend Development. </br> recently interested also in the DevOps fields.</h3>
-  
+<h1>Now-Start</h1>
+<h3>I'm a developer passionate about Backend Development. </br> recently interested also in the DevOps fields.</h3>
+
 ---
 
-<details>
-<summary><h2>🤝 Connect with me</h2></summary>
-
-[<img src="https://img.shields.io/badge/LG-A50034.svg?&style=for-the-badge&logo=lg&logoColor=white&link=mailto:nowstart2691@lguplus.co.kr"/>](mailto:nowstart2691@lguplus.co.kr)
-[<img src="https://img.shields.io/badge/gmail-c14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:nowstart2691@gmail.com"/>](mailto:nowstart2691@gmail.com)
+<details open>
+<summary><h2>📊 GitHub stats:</h2></summary>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=now-start&layout=compact&theme=react)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=now-start&hide=stars&show_icons=true&theme=react)
 </details>
   
 ---
@@ -48,8 +48,8 @@
 ---
 
 <details>
-<summary><h2>📊 GitHub stats:</h2></summary>
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=now-start&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=now-start&layout=compact&theme=react)
+<summary><h2>Connect with me</h2></summary>
+
+[<img src="https://img.shields.io/badge/LG-A50034.svg?&style=for-the-badge&logo=lg&logoColor=white&link=mailto:nowstart2691@lguplus.co.kr"/>](mailto:nowstart2691@lguplus.co.kr)
+[<img src="https://img.shields.io/badge/gmail-c14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:nowstart2691@gmail.com"/>](mailto:nowstart2691@gmail.com)
 </details>
