@@ -3,7 +3,7 @@
   
 ---
 
-<details open>
+<details>
 <summary><h2>🤝 Connect with me</h2></summary>
 
 [<img src="https://img.shields.io/badge/LG-A50034.svg?&style=for-the-badge&logo=lg&logoColor=white&link=mailto:nowstart2691@lguplus.co.kr"/>](mailto:nowstart2691@lguplus.co.kr)
@@ -12,7 +12,7 @@
   
 ---
 
-<details open>
+<details>
 <summary><h2>💻 My knowledges:</h2> </summary>
   
 ### Frontend
