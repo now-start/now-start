@@ -1,7 +1,4 @@
 <h1>Now-Start</h1>
-<h3>I'm a developer passionate about Backend Development. </br> recently interested also in the DevOps fields.</h3>
-
----
 
 <details open>
 <summary><h2>📊 GitHub stats:</h2></summary>
